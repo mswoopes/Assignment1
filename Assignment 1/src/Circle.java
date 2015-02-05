@@ -1,3 +1,5 @@
+//OK. Ozgur Aktunc
+
 public class Circle {
 
 	public static void main(String[] args) {
@@ -5,6 +7,7 @@ public class Circle {
 		int radius = 5;
 		
 		double diameter = radius + radius;
+		//One error here, this should also be multiplied by PI.
 				
 		double area = radius * radius * Math.PI;
 		
